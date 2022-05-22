@@ -17,7 +17,7 @@
 * hearing(left) - слух (левое ухо)
 * hearing(right) - слух (правое ухо)
 * systolic - систолическое давление
-* relaxation - кровенное давление
+* relaxation - диастолическое давление
 * fasting blood sugar - уровень сахара в крови
 * Cholesterol - холестерин
 * triglyceride - триглицерид
